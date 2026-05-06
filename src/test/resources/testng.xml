@@ -3,6 +3,7 @@
     <test name="Login Tests">
         <classes>
             <class name="com.example.tests.LoginTest"/>
+            <class name="com.example.tests.InvalidLoginTest"/>
         </classes>
     </test>
 </suite>
